@@ -1,0 +1,19 @@
+name	r2d2
+title	Risk and Resilience in Developmental Diversity and Mental Health
+description	R2D2-MH is a 5-year project co-funded by the European Commission that aims to identify risk and resilience factors associated with neurodevelopmental diversity, including Autism, ADHD or Intellectual Disability. The consortium is coordinated by Prof. Thomas Bourgeron (The Pasteur Institute, France) and brings together 26 partners with complementary expertise distributed worldwide. The strength of R2D2-MH lies in cocreation: adolescent and adult neurodivergent people are involved in the project to co-develop with the researchers new methods and digital tools that will be later used by the end-users (neurodivergent people and their families, healthcare givers, research community, policy makers).
+type	custom
+version	1.0
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
+keywords	Frankfurt	Collaboration	Research	Autism	ADHD
+license 
+doi 
+homepage	https://www.r2d2-mh.eu
+last-updated	2024-12-11
+authors	@tabby-many-authors@tby-r2d2v0
+data-controller	@tabby-optional-many-data-controller@tby-r2d2v0
+files	@tabby-optional-many-files@tby-ds1
+funding	@tabby-optional-many-funding@tby-r2d2v0
+publication	@tabby-optional-many-publications@tby-r2d2v0
+subdatasets	@tabby-optional-many-subdatasets@tby-r2d2v0
+used-for	@tabby-optional-many-used-for@tby-r2d2v0
